@@ -1,16 +1,51 @@
-# React + Vite
+# 👟 Product Page UI – React + Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean, modern, and fully responsive **Product Page UI** built using **React** and **Tailwind CSS**.  
+This project showcases a stylish **shoe product display** section — perfect for e-commerce stores or portfolio demos.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- ⚡ Built with **React 18 + Tailwind CSS**
+- 🖼️ Beautiful and responsive layout
+- 🧩 Product image, name, description, and pricing
+- 🛒 Add-to-cart button with hover animations
+- 🌈 Easy to customize and expand
+- 📱 Fully mobile-friendly
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Here’s what the product page looks like 👇
+
+![Product Page Screenshot](./images/product.png)
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ React.js
+- 🎨 Tailwind CSS
+- 🧰 JavaScript (ES6+)
+- 🚀 Vite (or CRA, depending on your setup)
+
+---
+
+## 🧩 Folder Structure
+
+product-page-ui/
+├── src/
+│ ├── components/
+│ │ ├── ProductCard.jsx
+│ │ └── Header.jsx
+│ ├── App.jsx
+│ ├── index.css
+│ └── main.jsx
+├── public/
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+├── .gitignore
+└── README.md

@@ -29,7 +29,7 @@ Here’s what the product page looks like 👇
 - ⚛️ React.js
 - 🎨 Tailwind CSS
 - 🧰 JavaScript (ES6+)
-- 🚀 Vite (or CRA, depending on your setup)
+- 🚀 Vite 
 
 ---
 
@@ -38,8 +38,8 @@ Here’s what the product page looks like 👇
 product-page-ui/
 ├── src/
 │ ├── components/
-│ │ ├── ProductCard.jsx
-│ │ └── Header.jsx
+│ │ ├── Navigation.jsx
+│ │ └── Hero.jsx
 │ ├── App.jsx
 │ ├── index.css
 │ └── main.jsx

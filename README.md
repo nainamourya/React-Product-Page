@@ -20,7 +20,7 @@ This project showcases a stylish **shoe product display** section — perfect fo
 
 Here’s what the product page looks like 👇
 
-![Product Page Screenshot](./images/product.png)
+![Product Page Screenshot](./images/product-ul.png)
 
 ---
 
